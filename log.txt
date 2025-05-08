@@ -1,0 +1,12 @@
+bash: deploy.sh: No such file or directory
+New commit found! Deploying...
+No new commits.
+No new commits.
+No new commits.
+bash: deploy.sh: No such file or directory
+New commit found! Deploying...
+No new commits.
+bash: deploy.sh: No such file or directory
+New commit found! Deploying...
+No new commits.
+No new commits.
