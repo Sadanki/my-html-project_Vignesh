@@ -1,4 +1,4 @@
-Here's a **complete and clear step-by-step guide** for your CI/CD pipeline using **Bash**, **Python**, **crontab**, and **AWS EC2** to deploy a static HTML site with **Nginx**:
+Here's a **complete and clear step-by-step guide** for  CI/CD pipeline using **Bash**, **Python**, **crontab**, and **AWS EC2** to deploy a static HTML site with **Nginx**:
 
 ---
 
