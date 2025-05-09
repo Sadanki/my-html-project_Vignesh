@@ -2,9 +2,28 @@
 <html>
 <head>
     <title>My CI/CD Project</title>
+    <style>
+        .deploy-info {
+            color: #666;
+            font-style: italic;
+            margin-top: 2em;
+            border-top: 1px solid #eee;
+            padding-top: 0.5em;
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome to My CI/CD Pipeline - Updated!</h1>
     <p>This page is automatically deployed from GitHub.</p>
+    
+    <!-- NEW LINE ADDED BELOW FOR DEPLOYMENT VERIFICATION -->
+    <div class="deploy-info">
+        Last deployed: <span id="timestamp"></span>
+    </div>
+
+    <script>
+        // Auto-updating timestamp
+        document.getElementById('timestamp').textContent = new Date().toLocaleString();
+    </script>
 </body>
 </html>
