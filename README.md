@@ -173,5 +173,7 @@ git push
 ├── deploy.sh
 ├── last_commit.txt
 ```
+Architecture diagram / Deployment flowchart
+![image](https://github.com/user-attachments/assets/24f8383a-e74b-433a-b5c9-7f99752c766d)
 
 ---
